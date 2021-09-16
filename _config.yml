@@ -7,8 +7,8 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: hacksbynight.org (!!!UNDER CONSTRUCTION!!!)
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+description: An infosec blog
+github_username: br1an77
 
 # Email and twitter are optional:
 email:
